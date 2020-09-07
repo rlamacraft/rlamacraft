@@ -7,6 +7,6 @@ I'm a British software engineer specialising in developing SDLC tooling and with
 * Domain specific programming languages (I've worked on several; in academia and in industry)
 * Simple electronics, like building a 4-bit processor on breadboards
 
-I'm currently completing a Master's degree in Computer Science at the University of Edinburgh, which is why a lot of my contributions are currently private - but I'll be sure to make them public when I can.
+I've recently completed a Master's degree in Computer Science at the University of Edinburgh, which is why a lot of my contributions are currently private - but I'll be sure to make them public when I can.
 
 If you want to reach me, that's best done through the contract details on [my website](https://rlamacraft.uk)

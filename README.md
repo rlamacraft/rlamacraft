@@ -9,4 +9,5 @@ I'm a British software engineer specialising in developing SDLC tooling and with
 
 I've recently completed a Master's degree in Computer Science at the University of Edinburgh, which is why a lot of my contributions are currently private - but I'll be sure to make them public when I can.
 
-If you want to reach me, that's best done through the contract details on [my website](https://rlamacraft.uk)
+If you want to reach me, that's best done through the contract details on [my website](https://rlamacraft.uk).
+I also run a Gemini Capsule at [gemini://gemini.rlamacraft.uk](gemini://gemini.rlamacraft.uk).

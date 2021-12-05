@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-I'm a British software engineer specialising in developing SDLC tooling and with interests including
+I'm a British software engineer with interests in FP, DSLs, systems software, and esoterical computing/languages.
 
-* Web technologies, like PureScript, TypeScript, and Elm
-* Functional programming, such as the above and, of course, Haskell
-* Domain specific programming languages (I've worked on several; in academia and in industry)
-* Simple electronics, like building a 4-bit processor on breadboards
+My masters thesis was on the static analysis of ISAs, I have experimented with simple electronics, have designed my own simple VMs, and an assembly language in an attempt to gain a more comprehensive understand of computing.
 
-I've recently completed a Master's degree in Computer Science at the University of Edinburgh, and now work at [ResearchSpace](https://researchspace.com).
-
-If you want to reach me, that's best done through the contract details on [my website](https://rlamacraft.uk).
-I also run a Gemini Capsule at [gemini://gemini.rlamacraft.uk](gemini://gemini.rlamacraft.uk).
+I believe strongly in the applicability of the UNIX philosophy (combining simple tools like vim, git, awk, grep) even in the current era of SaaS technology; that modern software is generally over engineered, and instead want to work on systems that empower users, that try to teach them, rather than confine them to a fixed set of functionality. I have an interest in aggressively minimalist software, and to this end have a gemini capsule at gemini://gemini.rlamacraft.uk
